@@ -14,7 +14,7 @@ This project assists you in identifying if an email is spam or not by training a
 1. Open your browser and go to http://localhost:5000.
 2. Type or paste an email into the form.
 3. Click Predict to see if it's spam or not.
-**APP SCREENSHOTS ** : Screenshot Path: screenshots/output.png
+**APP SCREENSHOTS ** : Screenshot Path: "ScamEmailClassifierProject/output.png"
 
 **Project Files**
 1. train_modal.py: Trains the spam detection model.
